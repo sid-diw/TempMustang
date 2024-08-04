@@ -24,7 +24,9 @@
 }
 
 .custom-space {
-    margin-top: 100px; /* Adjust the value as needed */
+    background-color: rgb(242, 205, 8); /* Set the background color */
+    padding-top: 100px; /* Adjust the value as needed */
+    margin-top: 0; /* Ensure there's no additional margin */
 }
 
 .brand-logo {
