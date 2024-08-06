@@ -6,6 +6,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+.custom-space {
+    background-color: white; /* Set the background color */
+    padding-top: 100px; /* Adjust the value as needed */
+    margin-top: 0; /* Ensure there's no additional margin */
+}
 
 .login-button {
     background-color: #002d62;
