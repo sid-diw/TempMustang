@@ -1,0 +1,69 @@
+<div class="container">
+
+            
+            <div class="row">
+              <div class="col-md-8">
+                <div class="leaderboard-wrapper">
+                    <div id="header">
+                        <h1>Student Leaderboard</h1>
+                    </div>
+                    <div id="leaderboard">
+                        <table>
+                            <tr>
+                                <td class="number">1</td>
+                                <td class="name">Lee Taeyong</td>
+                                <td class="points">125</td>
+                            </tr>
+                            <tr>
+                                <td class="number">2</td>
+                                <td class="name">Mark Lee</td>
+                                <td class="points">124</td>
+                            </tr>
+                            <tr>
+                                <td class="number">3</td>
+                                <td class="name">Xiao Dejun</td>
+                                <td class="points">123</td>
+                            </tr>
+                            <tr>
+                                <td class="number">4</td>
+                                <td class="name">Qian Kun</td>
+                                <td class="points">122</td>
+                            </tr>
+                            <tr>
+                                <td class="number">5</td>
+                                <td class="name">Johnny Suh</td>
+                                <td class="points">121</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+
+              
+              <div class="col-6 col-md-4">
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="slide1.jpg" class="d-block w-100" alt="Image 1">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="slide2.jpg" class="d-block w-100" alt="Image 2">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="slide3.jpg" class="d-block w-100" alt="Image 3">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+                
+                
+                </div>
+            </div>
