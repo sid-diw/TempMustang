@@ -1,5 +1,4 @@
-/* Existing Styles */
-/* Styles for the navbar and other elements */
+
 
 * {
     padding: 0;
@@ -7,9 +6,9 @@
     box-sizing: border-box;
 }
 .custom-space {
-    background-color: white; /* Set the background color */
-    padding-top: 100px; /* Adjust the value as needed */
-    margin-top: 0; /* Ensure there's no additional margin */
+    background-color: white; 
+    padding-top: 100px; 
+    margin-top: 0; 
 }
 
 .login-button {
@@ -88,7 +87,7 @@
     height: 100vh;
 }
 
-/* Responsive styles */
+
 @media (max-width: 991px) {
     .navbar .container-fluid {
         display: flex;
@@ -324,7 +323,6 @@ body {
     background-color: #252525;
 }
 
-/*responsive*/
 
 @media (min-width:768px) and (max-width:991px) {
     .right i {
@@ -378,7 +376,6 @@ body {
     }
 }
 
-/* New Styles */
 .new-section * {
     margin-top: 20px;
     font-size: 62.5%;
